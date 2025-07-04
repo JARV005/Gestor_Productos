@@ -1,7 +1,5 @@
 📄 README.md
-markdown
-Copiar
-Editar
+
 # 🛠️ Proyecto: Gestión de Productos con Fetch API y JSON Server
 
 Este proyecto implementa operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una colección de productos, utilizando **JavaScript**, **Fetch API** y un **servidor simulado con JSON Server**. La interacción se realiza mediante botones en una página HTML, y los resultados se muestran en la consola del navegador.
@@ -58,6 +56,8 @@ Eliminar producto
 
 Todos los resultados se mostrarán en la consola del navegador (F12 → pestaña "Console").
 
+---
+
 Ejemplos de uso:
 ![image](https://github.com/user-attachments/assets/58b0dab6-c1a5-4eb0-b19d-5e9dd436f978)
 
@@ -68,6 +68,7 @@ Ejemplos de uso:
 
 ![image](https://github.com/user-attachments/assets/31acfd94-ec52-4971-aa23-b80eaae72d6a)
 
+---
 
 📋 Funcionalidades implementadas
 ✅ Obtener y visualizar todos los productos (GET)
@@ -80,12 +81,14 @@ Ejemplos de uso:
 
 ✅ Manejo de errores y validación básica de entradas
 
+---
+
 🔧 Tecnologias usadas
 
 HTML
 JavaScript
 Json
-
+---
 📌 Notas
 El archivo db.json contiene productos con estructura en inglés (name, price) pero los mensajes están en español.
 
