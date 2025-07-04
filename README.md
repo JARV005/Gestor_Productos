@@ -30,6 +30,7 @@ Instalación de JSON Server globalmente:
 
 ```bash
 npm install -g json-server
+bash
 ▶️ Cómo ejecutar el proyecto
 Clona o descarga este repositorio en tu equipo.
 
@@ -39,7 +40,7 @@ Ejecuta el servidor JSON apuntando al archivo db.json:
 
 
 
-json-server --watch assets/json/db.json
+json-server --watch ./assets/json/db.json
 Esto iniciará el servidor en http://localhost:3000.
 
 Abre el archivo index.html en tu navegador.
