@@ -28,7 +28,7 @@ Entregable-W3-JS/
 
 Instalación de JSON Server globalmente:
 
-```
+```bash
 npm install -g json-server
 ▶️ Cómo ejecutar el proyecto
 Clona o descarga este repositorio en tu equipo.
