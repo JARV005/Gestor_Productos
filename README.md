@@ -19,10 +19,6 @@ Entregable-W3-JS/
 └── json/
 └── db.json # Base de datos simulada para JSON Server
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🚀 Requisitos
@@ -32,7 +28,7 @@ Editar
 
 Instalación de JSON Server globalmente:
 
-```bash
+```
 npm install -g json-server
 ▶️ Cómo ejecutar el proyecto
 Clona o descarga este repositorio en tu equipo.
@@ -41,9 +37,8 @@ Abre una terminal y ubícate en la carpeta del proyecto.
 
 Ejecuta el servidor JSON apuntando al archivo db.json:
 
-bash
-Copiar
-Editar
+
+
 json-server --watch assets/json/db.json
 Esto iniciará el servidor en http://localhost:3000.
 
@@ -78,4 +73,4 @@ El archivo db.json contiene productos con estructura en inglés (name, price) pe
 El ID usado en las funciones de actualizar y eliminar está codificado para pruebas (ID 1 y 2 respectivamente). Puedes cambiarlo en el código si es necesario.
 
 🧑‍💻 Autor
-Sebastián Agudelo
+Johan Rivera
