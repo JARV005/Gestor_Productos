@@ -28,9 +28,9 @@ Entregable-W3-JS/
 
 Instalación de JSON Server globalmente:
 
-```bash
+```
 npm install -g json-server
-```bash
+```
 ▶️ Cómo ejecutar el proyecto
 Clona o descarga este repositorio en tu equipo.
 
@@ -39,8 +39,9 @@ Abre una terminal y ubícate en la carpeta del proyecto.
 Ejecuta el servidor JSON apuntando al archivo db.json:
 
 
-
+```
 json-server --watch ./assets/json/db.json
+```
 Esto iniciará el servidor en http://localhost:3000.
 
 Abre el archivo index.html en tu navegador.
@@ -56,6 +57,10 @@ Actualizar producto
 Eliminar producto
 
 Todos los resultados se mostrarán en la consola del navegador (F12 → pestaña "Console").
+
+Ejemplos de uso:
+![image](https://github.com/user-attachments/assets/58b0dab6-c1a5-4eb0-b19d-5e9dd436f978)
+
 
 📋 Funcionalidades implementadas
 ✅ Obtener y visualizar todos los productos (GET)
