@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "name": "Teclado Gamer RGB",
+      "price": 520,
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "nombre": "Monitor 27\"",
+      "precio": 950
+    },
+    {
+      "id": "4",
+      "nombre": "Disco SSD 1TB",
+      "precio": 480
+    },
+    {
+      "id": "6",
+      "nombre": "Webcam HD",
+      "precio": 160
+    },
+    {
+      "id": "7",
+      "nombre": "Smartwatch",
+      "precio": 400
+    },
+    {
+      "id": "8",
+      "nombre": "Tablet 10\"",
+      "precio": 1100
+    },
+    {
+      "id": "9",
+      "nombre": "Router WiFi 6",
+      "precio": 300
+    },
+    {
+      "id": "10",
+      "nombre": "Celular",
+      "precio": 20000
+    },
+    {
+      "id": "11",
+      "nombre": "Altavoces Bluetooth",
+      "precio": 420
+    },
+    {
+      "id": "12",
+      "name": "Altavoces Bluetooth",
+      "price": 420
+    }
+  ]
+}
