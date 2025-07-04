@@ -62,6 +62,13 @@ Ejemplos de uso:
 ![image](https://github.com/user-attachments/assets/58b0dab6-c1a5-4eb0-b19d-5e9dd436f978)
 
 
+![image](https://github.com/user-attachments/assets/4f09beff-26bf-493d-8bfd-570823669d0e)
+
+![image](https://github.com/user-attachments/assets/6c22fa71-e30b-45ec-9e87-c783c961a6a1)
+
+![image](https://github.com/user-attachments/assets/31acfd94-ec52-4971-aa23-b80eaae72d6a)
+
+
 📋 Funcionalidades implementadas
 ✅ Obtener y visualizar todos los productos (GET)
 
@@ -72,6 +79,12 @@ Ejemplos de uso:
 ✅ Eliminar un producto por ID (DELETE)
 
 ✅ Manejo de errores y validación básica de entradas
+
+🔧 Tecnologias usadas
+
+HTML
+JavaScript
+Json
 
 📌 Notas
 El archivo db.json contiene productos con estructura en inglés (name, price) pero los mensajes están en español.
