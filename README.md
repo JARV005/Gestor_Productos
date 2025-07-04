@@ -85,9 +85,9 @@ Ejemplos de uso:
 
 🔧 Tecnologias usadas
 
-HTML
-JavaScript
-Json
+ - HTML
+ - JavaScript
+ - Json
 ---
 📌 Notas
 El archivo db.json contiene productos con estructura en inglés (name, price) pero los mensajes están en español.
